@@ -1,6 +1,6 @@
 {
-    "name": "bulletin",
-    "description": "A Ghost theme",
+    "name": "bellutin",
+    "description": "A bulletin forked Ghost theme",
     "version": "1.0.0",
     "private": true,
     "engines": {
@@ -8,9 +8,9 @@
     },
     "license": "MIT",
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "Bilbo the Hobbyist",
+        "email": "74491222+BilboTheHobbyist@users.noreply.github.com",
+        "url": "https://www.bellerad.io"
     },
     "keywords": [
         "ghost",
