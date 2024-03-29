@@ -60,17 +60,8 @@
             },
             "background_position": {
                 "type": "text",
-                "default": "left 25%",
+                "default": "left 35%",
                 "description": "The background position for the site cover image used in post menu"
-            },              
-            "content_background_image": {
-                "type": "image",
-                "description": "The background image for content part"
-            },
-            "content_background_image_color": {
-                "type": "color",
-                "default": "#15171a",
-                "description": "The background image color for content part"
             }
         }
     },
