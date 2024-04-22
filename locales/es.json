@@ -21,6 +21,7 @@
     "Read <a href='{url}'>more posts</a> by this author": "Lee <a href='{url}'>más artículos</a> de este autor",
     "See all % posts": "Ver todos los % artículos",
     "Share this": "Comparte",
+    "Stay tuned": "Quedarse informad@",    
     "Stay up to date! Get all the latest & greatest posts delivered straight to your inbox": "¡Mantente al día! Recibe todos los últimos y mejores artículos directamente en tu buzón",
     "This post was a collaboration between": "Este artículo fue una colaboración entre",
     "youremail@example.com": "tucorreo@ejemplo.com",
@@ -33,5 +34,7 @@
     "By": "De",
     "Topics": "Assuntos",
     "For better browsing, please enable JavaScript": "Para mejorar la navegación de este sitio, por favor activar javaScript.",
-    "Powered by Ghost": "Hecho con Ghost"    
+    "Powered by Ghost": "Hecho con Ghost",
+    "Sign in": "Iniciar sesión",
+    "Account": "Sesión"
 }

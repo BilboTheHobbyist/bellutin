@@ -21,9 +21,10 @@
     "Read <a href='{url}'>more posts</a> by this author": "Voir <a href='{url}'>plus de publications</a> de cet auteur",
     "See all % posts": "Voir toutes les % publications",
     "Share this": "Partagez-moi",
+    "Stay tuned": "Pour ne rien manquer",    
     "Stay up to date! Get all the latest & greatest posts delivered straight to your inbox": "Restez informés ! Recevez l'actualité des publications directement dans votre boîte aux lettres",
     "This post was a collaboration between": "Cette publication était une collaboration entre",
-    "youremail@example.com": "youremail@example.com",
+    "youremail@example.com": "votre.email@exemple.fr",
     "1 post": "1 publication",
     "% posts": "% publications",
     "1 min read": "1 min de lecture",
@@ -32,5 +33,7 @@
     "By": "Par",
     "Topics": "Thèmes",
     "For better browsing, please enable JavaScript": "Pour une meilleure navigation sur le site, nous vous conseillons d'activer le JavaScript",
-    "Powered by Ghost": "Animé par Ghost"
+    "Powered by Ghost": "Animé par Ghost",
+    "Sign in": "Se connecter",
+    "Account": "Compte"
 }

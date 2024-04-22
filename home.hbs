@@ -20,10 +20,10 @@
                     </header>
 
                     <section class="gh-home-subscribe">
-                        <h2 class="gh-home-subscribe-title">Stay tuned</h2>
-                        <p class="gh-home-subscribe-description">Don’t miss out on the latest issues. Sign up now to get access to the library of members-only issues.</p>
+                        <h2 class="gh-home-subscribe-title">{{t "Stay tuned"}}</h2>
+                        <p class="gh-home-subscribe-description">{{t "Stay up to date! Get all the latest & greatest posts delivered straight to your inbox"}}</p>
                         <a class="gh-home-subscribe-input" href="#/portal/signup" data-portal="signup">
-                            jamie@example.com <span>{{> icons/arrow-right}}</span>
+                            {{t "youremail@example.com"}} <span>{{> icons/arrow-right}}</span>
                         </a>
                     </section>
 
@@ -89,7 +89,7 @@
                     <div class="gh-home-latest-label">
                         {{#foreach posts limit="1"}}                             
                         <span class="gh-home-latest-indicator"></span>
-                        <a class="" href="{{url}}"> Latest issue
+                        <a class="" href="{{url}}"> {{t "Latest Posts"}}
                         </a>
                         {{/foreach}}
                     </div>
