@@ -25,8 +25,6 @@
     "Stay up to date! Get all the latest & greatest posts delivered straight to your inbox": "¡Mantente al día! Recibe todos los últimos y mejores artículos directamente en tu buzón",
     "This post was a collaboration between": "Este artículo fue una colaboración entre",
     "youremail@example.com": "tucorreo@ejemplo.com",
-    "1 post": "1 artículo",
-    "% posts": "% artículos",
     "1 min read": "1 min de lectura",
     "% min read": "% min de lectura",
     "< 1 min read": "< 1 min de lectura",
@@ -36,5 +34,6 @@
     "For better browsing, please enable JavaScript": "Para mejorar la navegación de este sitio, por favor activar javaScript.",
     "Powered by Ghost": "Hecho con Ghost",
     "Sign in": "Iniciar sesión",
-    "Account": "Sesión"
+    "Account": "Sesión",
+    "in": "en"    
 }
