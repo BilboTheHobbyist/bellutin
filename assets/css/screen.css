@@ -555,7 +555,51 @@ h6 {
     min-height: 0vh!important;
 }
 
+/* hack to fill the header's margins */
 .gh-outer {
     padding-left: 0!important;
     padding-right: 0!important;
+}
+
+/* recreate margins on header's inner elements */
+.gh-head-brand {
+    margin-left: var(--gap);
+}
+
+.gh-head-members {
+    margin-right: var(--gap);
+}
+
+.gh-burger {
+    margin-right: var(--gap);
+}
+
+.social-share-block {
+    margin-top: 8rem;
+    text-align: center; 
+}
+.social-share-block span {
+    display: inline-block;
+    font-weight: bold;
+    margin-right: 1rem;
+    font-size: 2rem;
+}
+.social-share-block a {
+    display: inline-block;
+    transition: all 0.3s;
+    margin: 0 0.25rem;
+    text-decoration-line:"";
+}
+.social-share-block a:hover {
+    transform: scale(1.1);
+}
+.social-share-block svg {
+    display: block;
+    margin: 0 auto;
+}
+
+.social-share-block div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }

@@ -1,7 +1,6 @@
 <article class="gh-article {{post_class}}">
     <header class="gh-article-header gh-canvas{{#match @custom.feature_image_width "Full"}} image-full{{else match @custom.feature_image_width "=" "Wide"}} image-wide{{/match}}">
         <h1 class="gh-article-title">{{title}}</h1>
-
         <span class="gh-article-meta">
             {{#primary_author}}{{t "By"}} <a href="{{url}}">{{name}}</a>{{/primary_author}}
             {{#if primary_tag}}
@@ -10,12 +9,10 @@
             {{/if}}
             —
             <time datetime="{{date format="YYYY-MM-DD"}}">{{date}}</time>
-        </span>
-
+        </span>     
         {{#if custom_excerpt}}
             <p class="gh-article-excerpt">{{custom_excerpt}}</p>
         {{/if}}
-
         {{> "feature-image"}}
     </header>
 
@@ -24,6 +21,7 @@
     </div>
 
     {{#is "post"}}
+            {{> share-block}}    
         {{#if comments}}
             <div class="gh-comments gh-canvas">
                 {{comments}}
